@@ -11,6 +11,7 @@
     - [The Barony of Letnev](#the-barony-of-letnev)
     - [The Sardakk N’orr](#the-sardakk-n%E2%80%99orr)
     - [The Universities of Jol-Nar](#the-universities-of-jol-nar)
+    - [All Factions](#all-factions)
 - [Strats](#strats)
 - [How to Win](#how-to-win)
 - [Setup](#setup)
@@ -27,6 +28,10 @@
   - [STATUS PHASE](#status-phase)
   - [AGENDA PHASE](#agenda-phase)
 - [Objectives](#objectives)
+- [MOVEMENT](#movement)
+- [COMBAT](#combat)
+- [INVASION](#invasion)
+- [PRODUCTION](#production)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
