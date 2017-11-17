@@ -1,8 +1,32 @@
-# TI4
+  - [Factions](#factions)
+    - [The Xxcha Kingdom](#the-xxcha-kingdom)
+    - [The Federation of Sol](#the-federation-of-sol)
+    - [The Emirates of Hacan](#the-emirates-of-hacan)
+    - [The Barony of Letnev](#the-barony-of-letnev)
+    - [The Sardakk N’orr](#the-sardakk-n%E2%80%99orr)
+    - [The Universities of Jol-Nar](#the-universities-of-jol-nar)
+  - [Strats](#strats)
+  - [How to Win](#how-to-win)
+  - [Setup](#setup)
+    - [Each player receives...](#each-player-receives)
+    - [SHUFFLE COMMON DECKS](#shuffle-common-decks)
+    - [GATHER STARTING COMPONENTS](#gather-starting-components)
+    - [PREPARE OBJECTIVES](#prepare-objectives)
+  - [Game Play](#game-play)
+    - [STRATEGY PHASE](#strategy-phase)
+    - [ACTION PHASE](#action-phase)
+      - [TACTICAL ACTION](#tactical-action)
+      - [STRATEGIC ACTION](#strategic-action)
+      - [COMPONENT ACTIONS](#component-actions)
+    - [STATUS PHASE](#status-phase)
+    - [AGENDA PHASE](#agenda-phase)
+- [Objectives](#objectives)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Factions
 ### The Xxcha Kingdom
-![](https://i.imgur.com/rZcn7jN.jpg)
+![](https://i.imgur.com/rZcn7jN.jpg =100x)
 ### The Federation of Sol
 ![](https://i.imgur.com/Zn0IB29.jpg)
 ### The Emirates of Hacan
