@@ -1,4 +1,4 @@
-![](https://images-cdn.fantasyflightgames.com/filer_public/10/d7/10d73c32-9119-4e3c-b7d7-a0b6a0e2ad3d/ti07_slider_anc.jpg)
+<h1>![](https://images-cdn.fantasyflightgames.com/filer_public/10/d7/10d73c32-9119-4e3c-b7d7-a0b6a0e2ad3d/ti07_slider_anc.jpg)</h1>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
